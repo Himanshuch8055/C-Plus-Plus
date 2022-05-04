@@ -10,8 +10,8 @@ int main(){
     cout<<"Enter the value of b: ";
     cin>>b;
     c=a+b;
-    cout<<"the sum of: "<<c<<endl;
-    cout<<"the global c is: "<<::c<<endl;
+    cout<<"The sum of: "<<c<<endl;
+    cout<<"The global c is: "<<::c<<endl;
 
     cout<<endl;
 

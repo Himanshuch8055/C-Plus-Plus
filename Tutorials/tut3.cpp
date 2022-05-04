@@ -10,7 +10,7 @@ comment */
 
 int main(){
     int sum = 6;
-    cout<<"hello world: "<<sum;
+    cout<<"Hello World: "<<sum;
 
     return 0;
 }
