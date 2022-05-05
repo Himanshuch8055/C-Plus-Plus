@@ -13,7 +13,7 @@ int main ()
     }
 
     int b;
-    cout<<"Enter the Number do you want to Print table:- ";
+    cout<<"Enter the Number do you want to Print reverse table:- ";
     cin>>b;
 
     for (int i = 10; i >= 1; i--)
